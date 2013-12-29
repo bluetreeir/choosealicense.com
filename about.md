@@ -1,5 +1,4 @@
 ---
-title: About
 layout: default
 permalink: /about/
 title: What's this about?
